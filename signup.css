@@ -1,0 +1,11 @@
+footer {
+    background-color: #000;
+    color: #fff;
+    font-size: 14px;
+    padding: 0.5px;
+    margin-top: 80px;
+}
+.content{
+    margin-left: 30%;
+    margin-right: 30%;
+}
